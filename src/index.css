@@ -1,0 +1,17 @@
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.card-color{
+  background: linear-gradient(180deg, hsla(0, 0%, 100%, 1) 0%, hsla(198, 100%, 80%, 0.4) 100%);
+}
