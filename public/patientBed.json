@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Shared bed",
+    "cost": 1500,
+    "img": "https://image.freepik.com/free-photo/hospital-ward-with-beds-medical-equipment_46527-119.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Single Non AC",
+    "cost": 1500,
+    "img": "https://image.freepik.com/free-vector/doctors-visit-treating-patient_37895-279.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Single AC",
+    "cost": 2000,
+    "img": "https://as1.ftcdn.net/v2/jpg/02/71/21/04/500_F_271210499_PERkK7L9lYN5iic1Q7BFpAfZWbf74xoJ.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Bed With Oxygen supply",
+    "cost": 12000,
+    "img": "https://image.freepik.com/free-photo/old-man-with-respirator-hospital-bed_23-2149011221.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Double Bed with TV",
+    "cost": 3000,
+    "img": "https://image.freepik.com/free-vector/old-man-hospital-room_82574-2898.jpg"
+  },
+  {
+    "id": "6",
+    "name": "ECU cabin",
+    "cost": 15000,
+    "img": "https://image.freepik.com/free-photo/female-doctor-putting-oxygen-mask-patient-face_107420-63869.jpg"
+  }
+]

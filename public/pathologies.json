@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Digital X-Ray",
+    "cost": 1000,
+    "img": "https://image.freepik.com/free-vector/human-bones-realistic-x-ray-shots_1284-29690.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Ultrasonography",
+    "cost": 1200,
+    "img": "https://image.freepik.com/free-vector/prenatal-care-sonographer-scanning-examining-pregnant-woman-while-expecting-father-looking-monitor-vector-illustration-medical-examination-sonography-ultrasound-test-topics_74855-8535.jpg"
+  },
+  {
+    "id": "3",
+    "name": "ECG",
+    "cost": 1500,
+    "img": "https://image.freepik.com/free-vector/patient-resting-electrocardiograph_457289-123.jpg"
+  },
+  {
+    "id": "4",
+    "name": "MRI",
+    "cost": 12000,
+    "img": "https://image.freepik.com/free-vector/colored-flat-medical-mri-composition-mri-room-hospital-treatment-vector-illustration_1284-30685.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Ultrasonography",
+    "cost": 1200,
+    "img": "https://image.freepik.com/free-photo/hand-with-protective-gloves-holding-blood-samples-covid-test_23-2148958363.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Regular Health Checkup",
+    "cost": 15000,
+    "img": "https://image.freepik.com/free-vector/flat-hand-drawn-patient-taking-medical-examination_52683-55853.jpg"
+  }
+]
