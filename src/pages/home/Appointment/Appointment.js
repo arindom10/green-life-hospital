@@ -62,20 +62,20 @@ const Appointment = () => {
               <option value="Dr. Arindom Kundu">
                 Dr. Arindom Kundu (medicine and gastrology)
               </option>
-              <option value="Dr. Toufiq Ahmed Pranto">
+              <option value="Dr. Tanzim Ahmed">
                 Dr. Tanzim Ahmed (heart and urology)
               </option>
-              <option value="Dr. Fazle Rabbi Talukder">
+              <option value="Dr. Al-Amin Hosen">
                 Dr. Al-Amin Hosen (Surgery)
               </option>
-              <option value="Dr. Morina haque">
+              <option value="Dr. Jihadul Islam">
                 Dr. Jihadul Islam (kidney)
               </option>
-              <option value="Dr. Rozina Khatun">
+              <option value="Dr. Asif Ahmed">
                 Dr. Asif Ahmed (women problems)
               </option>
-              <option value="Dr. Towfiqul Islam">
-                Dr. Shoyeb Ahmed (Neurology)
+              <option value="Dr. Hasibur Rahman">
+                Dr. Hasibur Rahman (Neurology)
               </option>
             </select>
             <label htmlFor="" className="mt-3">
