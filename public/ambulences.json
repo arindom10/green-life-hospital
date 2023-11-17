@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "mini ambulence",
+    "img": "https://sc02.alicdn.com/kf/HTB1Rte0ayzxK1RkSnaVq6xn9VXa5/2020116/HTB1Rte0ayzxK1RkSnaVq6xn9VXa5.jpg",
+    "type": "inside district",
+    "cost": 500
+  },
+  {
+    "id": 2,
+    "name": "non ac",
+    "img": "http://www.maarsambulance.com/images/about/non-ac-ambulance-2.jpg",
+    "type": "inside district",
+    "cost": 1000
+  },
+  {
+    "id": 3,
+    "name": "ac",
+    "img": "https://www.consciousambulance.com/wp-content/uploads/2019/02/Ambulance-Air-Condition.jpg",
+    "type": "inside district",
+    "cost": 1500
+  },
+  {
+    "id": 4,
+    "name": "ICU ambulence",
+    "img": "https://www.uhlbd.com/backend/web/post_uploads/1467273193Ambulance_resize.jpg",
+    "type": "inside & outside district",
+    "cost": 2000
+  },
+  {
+    "id": 5,
+    "name": "Fridzing ambulence",
+    "img": "https://abuambulance.com/wp-content/uploads/2020/10/%E0%A6%B2%E0%A6%BE%E0%A6%B6%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%82-%E0%A6%8F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8.jpg",
+    "type": "inside & outside district",
+    "cost": 2500
+  },
+  {
+    "id": 6,
+    "name": "Long Route",
+    "img": "https://www.easthamptonstar.com/sites/default/files/CopsAmbulanceSagHarborDG2517.JPG",
+    "type": "outside district",
+    "cost": 3500
+  }
+]
